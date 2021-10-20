@@ -1,0 +1,6 @@
+#include "./Managers/Admin_Manager.cpp"
+#include "./Managers/Club_Manager.cpp"
+#include "./Managers/Course_Manager.cpp"
+#include "./Managers/LunchStaff_Manager.cpp"
+#include "./Managers/Student_Manager.cpp"
+#include "./Managers/Teacher_Manager.cpp"
